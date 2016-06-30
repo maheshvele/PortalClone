@@ -1,0 +1,13 @@
+SFXBank	background
+SFXBank	stillAlive
+SFXBank	invalidPortal
+SFXBank	shootPortal
+SFXBank	levelComplete
+SFXBank	ComeOver
+SFXBank	Hello
+SFXBank	IdontHateYou
+SFXBank	SeeYou
+SFXBank	closePortal
+SFXBank	fizzlePortal
+SFXBank	AliveRemix
+SFXBank	Steps

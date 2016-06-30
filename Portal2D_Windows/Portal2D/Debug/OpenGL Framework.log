@@ -1,0 +1,36 @@
+﻿Build started 12/9/2014 10:58:46 AM.
+     1>Project "C:\Users\mvelegonda\Desktop\Portal2D\OpenGL Framework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Software Engineering I\Software\OpenGL Framework" /I./ /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Enemy.cpp
+         Enemy.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mvelegonda\Desktop\Portal2D\Debug\OpenGL Framework.exe" /INCREMENTAL /NOLOGO /LIBPATH:./ opengl32.lib glu32.lib glut32.lib soil.lib Box2D.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mvelegonda\Desktop\Portal2D\Debug\OpenGL Framework.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\mvelegonda\Desktop\Portal2D\Debug\OpenGL Framework.lib" /MACHINE:X86 /SAFESEH Debug\AnimationManager.obj
+         Debug\AudioManager.obj
+         Debug\ball.obj
+         Debug\BallManager.obj
+         Debug\Enemy.obj
+         Debug\field.obj
+         Debug\FieldManager.obj
+         Debug\FileManager.obj
+         Debug\game.obj
+         Debug\InputManager.obj
+         Debug\keyProcess.obj
+         Debug\LevelManager.obj
+         Debug\MemoryManager.obj
+         Debug\object.obj
+         Debug\openGLFramework.obj
+         Debug\openGLStuff.obj
+         Debug\PhysicsManager.obj
+         Debug\PhysicsObject.obj
+         Debug\Player.obj
+         Debug\random.obj
+         Debug\RenderingManager.obj
+         Debug\ShapeDraw.obj
+         Debug\SpriteDemoManager.obj
+         Debug\stateManager.obj
+         OpenGL Framework.vcxproj -> C:\Users\mvelegonda\Desktop\Portal2D\Debug\OpenGL Framework.exe
+     1>Done Building Project "C:\Users\mvelegonda\Desktop\Portal2D\OpenGL Framework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03

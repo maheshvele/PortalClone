@@ -1,0 +1,44 @@
+// List of resources to bundle.
+//
+// The output will be a header file (.h) used at compile time,
+// and a packed resource file (.xpr) used at runtime.
+
+out_header         Resource2.h
+out_packedresource Media\Resource2.xpr
+out_error          Resource1.err
+out_prefix         resource
+
+Texture level7
+{
+   Source Levels\level7.png
+   Format D3DFMT_A8R8G8B8
+   Levels 1
+}
+
+Texture level8
+{
+   Source Levels\level8.png
+   Format D3DFMT_A8R8G8B8
+   Levels 1
+}
+
+Texture level9
+{
+   Source Levels\level8.png
+   Format D3DFMT_A8R8G8B8
+   Levels 1
+}
+
+Texture level10
+{
+   Source Levels\level8.png
+   Format D3DFMT_A8R8G8B8
+   Levels 1
+}
+
+Texture turret
+{
+   Source Levels\turret.png
+   Format D3DFMT_A8R8G8B8
+   Levels 1
+}

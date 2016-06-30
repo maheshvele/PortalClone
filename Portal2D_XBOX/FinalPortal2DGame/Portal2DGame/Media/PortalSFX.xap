@@ -1,0 +1,808 @@
+Signature = XACT;
+Version = 9;
+
+Options
+{
+    Project Header File = PortalSFX.h;
+    Cue List File = PortalSFXCue.txt;
+}
+
+Wave Bank
+{
+    Name = MediaSoundBank;
+    Bank File = PortalSoundBank.xwb;
+    Alignment = 512;
+    Streaming = 1;
+    Entry Names = 1;
+    Bank Last Modified Low = 2814819148;
+    Bank Last Modified High = 30413562;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+
+    Entry
+    {
+        Name = Could you come over here;
+        File = Sounds\Could you come over here.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 70715;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1175782082;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = Hello friend.;
+        File = Sounds\Hello friend..wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 76691;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1175782082;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = I dont hate you;
+        File = Sounds\I dont hate you.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 46811;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1175782082;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = I see you;
+        File = Sounds\I see you.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 46811;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1175782082;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = portal_ambient_loop1;
+        File = Sounds\portal_ambient_loop1.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 88643;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176094582;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = portal_close1;
+        File = Sounds\portal_close1.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 16931;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176094582;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = portal_fizzle2;
+        File = Sounds\portal_fizzle2.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 40835;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176094582;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = portal_invalid_surface3;
+        File = Sounds\portal_invalid_surface3.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 22907;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176094582;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = portalgun_powerup1;
+        File = Sounds\portalgun_powerup1.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 28883;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176250832;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = portalgun_shoot_blue1;
+        File = Sounds\portalgun_shoot_blue1.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 22907;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176250832;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = portalgun_shoot_red1;
+        File = Sounds\portalgun_shoot_red1.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 22907;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176250832;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = Still alive RadioRemix;
+        File = Sounds\Still alive RadioRemix.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 734051;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1177344582;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = Still Alive;
+        File = Sounds\Still alive.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 2849555;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1179063332;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = Steps;
+        File = Sounds\Steps.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 285851;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1177188332;
+        Last Modified High = 30413558;
+    }
+
+    Entry
+    {
+        Name = NewSteps;
+        File = Sounds\NewSteps.wma;
+        Format Tag = 2;
+        Channels = 2;
+        Sampling Rate = 44100;
+        Bits Per Sample = 1;
+        Play Region Offset = 0;
+        Play Region Length = 285851;
+        Loop Region Offset = 0;
+        Loop Region Length = 0;
+        File Type = 2;
+        Last Modified Low = 1176094582;
+        Last Modified High = 30413558;
+    }
+}
+
+Sound Category
+{
+    Name = Foosteps;
+}
+
+Sound Category
+{
+    Name = background;
+}
+
+Sound Category
+{
+    Name = SFX;
+}
+
+Sound Category
+{
+    Name = Voice;
+}
+
+Sound Layer
+{
+    Name = footsteps;
+}
+
+Sound Layer
+{
+    Name = portalLoop;
+}
+
+Sound Layer
+{
+    Name = stillAlive;
+}
+
+Sound Layer
+{
+    Name = portal;
+}
+
+Sound Layer
+{
+    Name = level;
+}
+
+Sound Layer
+{
+    Name = Turrets;
+}
+
+Sound Bank
+{
+    Name = SFXBank;
+    Bank File = SFXBank.xsb;
+    Bank Last Modified Low = 2814819148;
+    Bank Last Modified High = 30413562;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+
+    Sound
+    {
+        Name = Steps;
+        Category = Foosteps;
+        Layer = footsteps;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Loop Count = 65535;
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = NewSteps;
+                    Wave Entry Index = 14;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = background;
+        Category = background;
+        Layer = portalLoop;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Loop Count = 65535;
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = portal_ambient_loop1;
+                    Wave Entry Index = 4;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = stillAlive;
+        Category = background;
+        Layer = stillAlive;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Loop Count = 65535;
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = Still Alive;
+                    Wave Entry Index = 12;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = invalidPortal;
+        Category = SFX;
+        Layer = portal;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = portal_invalid_surface3;
+                    Wave Entry Index = 7;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = shootPortal;
+        Category = SFX;
+        Layer = portal;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = portalgun_shoot_red1;
+                    Wave Entry Index = 10;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = levelComplete;
+        Category = SFX;
+        Layer = level;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = portalgun_powerup1;
+                    Wave Entry Index = 8;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = ComeOver;
+        Category = Voice;
+        Layer = Turrets;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = Could you come over here;
+                    Wave Entry Index = 0;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = Hello;
+        Category = Voice;
+        Layer = Turrets;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = Hello friend.;
+                    Wave Entry Index = 1;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = IdontHateYou;
+        Category = Voice;
+        Layer = Turrets;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = I dont hate you;
+                    Wave Entry Index = 2;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = SeeYou;
+        Category = Voice;
+        Layer = Turrets;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = I see you;
+                    Wave Entry Index = 3;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = closePortal;
+        Category = SFX;
+        Layer = portal;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = portal_close1;
+                    Wave Entry Index = 5;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = fizzlePortal;
+        Category = SFX;
+        Layer = portal;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = portal_fizzle2;
+                    Wave Entry Index = 6;
+                }
+            }
+        }
+    }
+
+    Sound
+    {
+        Name = AliveRemix;
+        Category = background;
+        Layer = stillAlive;
+
+        Track
+        {
+            Play with Pitch and Volume Variation
+            {
+                Loop Count = 65535;
+                Pitch Low = 0;
+                Pitch High = 0;
+                Volume Low = 0;
+                Volume High = 0;
+
+                Registered Wave
+                {
+                    Wave Bank = MediaSoundBank;
+                    Wave Entry = Still alive RadioRemix;
+                    Wave Entry Index = 11;
+                }
+            }
+        }
+    }
+
+    Cue
+    {
+        Name = background;
+
+        Sound
+        {
+            Sound = background;
+            Sound Index = 1;
+        }
+    }
+
+    Cue
+    {
+        Name = stillAlive;
+
+        Sound
+        {
+            Sound = stillAlive;
+            Sound Index = 2;
+        }
+    }
+
+    Cue
+    {
+        Name = invalidPortal;
+
+        Sound
+        {
+            Sound = invalidPortal;
+            Sound Index = 3;
+        }
+    }
+
+    Cue
+    {
+        Name = shootPortal;
+
+        Sound
+        {
+            Sound = shootPortal;
+            Sound Index = 4;
+        }
+    }
+
+    Cue
+    {
+        Name = levelComplete;
+
+        Sound
+        {
+            Sound = levelComplete;
+            Sound Index = 5;
+        }
+    }
+
+    Cue
+    {
+        Name = ComeOver;
+
+        Sound
+        {
+            Sound = ComeOver;
+            Sound Index = 6;
+        }
+    }
+
+    Cue
+    {
+        Name = Hello;
+
+        Sound
+        {
+            Sound = Hello;
+            Sound Index = 7;
+        }
+    }
+
+    Cue
+    {
+        Name = IdontHateYou;
+
+        Sound
+        {
+            Sound = IdontHateYou;
+            Sound Index = 8;
+        }
+    }
+
+    Cue
+    {
+        Name = SeeYou;
+
+        Sound
+        {
+            Sound = SeeYou;
+            Sound Index = 9;
+        }
+    }
+
+    Cue
+    {
+        Name = closePortal;
+
+        Sound
+        {
+            Sound = closePortal;
+            Sound Index = 10;
+        }
+    }
+
+    Cue
+    {
+        Name = fizzlePortal;
+
+        Sound
+        {
+            Sound = fizzlePortal;
+            Sound Index = 11;
+        }
+    }
+
+    Cue
+    {
+        Name = AliveRemix;
+
+        Sound
+        {
+            Sound = AliveRemix;
+            Sound Index = 12;
+        }
+    }
+
+    Cue
+    {
+        Name = Steps;
+
+        Sound
+        {
+            Sound = Steps;
+            Sound Index = 0;
+        }
+    }
+}
